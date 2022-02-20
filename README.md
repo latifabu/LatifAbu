@@ -2,7 +2,7 @@
 ### Welcome to my Github! Join me on my journey and see what I have learnt. 
 
 ## Technical Skills:
-https://img.shields.io/github/pipenv/locked/python-version/latifabu/latifabu
+
 
 <!--
 **latifabu/LatifAbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
