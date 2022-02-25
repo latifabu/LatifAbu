@@ -1,7 +1,7 @@
 ### Hi there, 👋
 ### Welcome to my Github! Join me on my journey and see what I have learnt. 
 
-## Technical Skills:
+
 
 
 <!--
